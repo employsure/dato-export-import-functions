@@ -1,0 +1,17 @@
+export const modelNames:any[] = [
+    // "penau_page",
+    // "penau_page_template",
+    // "penau_blog_post",
+    // "penau_blog_category",
+    // "penau_editor",
+    // "penau_video",
+    // "penau_video_category",
+    // "penau_guide_topic",
+    // "penau_guide_category",
+    // "penau_eguide",
+    // "penau_media_release",
+    // "penau_case_study",
+    // "penau_event",
+    // "penau_event_location",
+    // "penau_glossary",
+  ]
